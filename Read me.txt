@@ -1,0 +1,3 @@
+cara menggunakan
+
+1. Clik kanan file bernama "beranda" lalu pilih open with "Mozzila firefox"
